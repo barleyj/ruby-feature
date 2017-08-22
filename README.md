@@ -1,10 +1,10 @@
 # feature
 
-* [Homepage](https://github.com/barleyj/feature#readme)
-* [Issues](https://github.com/barleyj/feature/issues)
-* [Documentation](http://rubydoc.info/gems/feature/frames)
+* [Homepage](https://github.com/barleyj/ruby-feature#readme)
+* [Issues](https://github.com/barleyj/ruby-feature/issues)
+* [Documentation](http://rubydoc.info/ruby-gems/feature/frames)
 
-[![Build Status](https://secure.travis-ci.org/barleyj/feature.svg?branch=master)](https://travis-ci.org/barleyj/feature)
+[![Build Status](https://secure.travis-ci.org/barleyj/ruby-feature.svg?branch=master)](https://travis-ci.org/barleyj/ruby-feature)
 
 ## Description
 
