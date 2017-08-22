@@ -7,8 +7,8 @@ require 'feature/version'
 Gem::Specification.new do |gem|
   gem.name          = "feature"
   gem.version       = Feature::VERSION
-  gem.summary       = %q{TODO: Summary}
-  gem.description   = %q{TODO: Description}
+  gem.summary       = %q{Gem for features}
+  gem.description   = %q{This gem allows you to configure and report on features in your code}
   gem.license       = "MIT"
   gem.authors       = ["Jayson Barley"]
   gem.email         = "jayson.barley@puppet.com"
