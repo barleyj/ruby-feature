@@ -15,7 +15,7 @@ class Feature::Feature
       yield
     rescue => e
       if @@reporter
-        @@reporter.report("Error detected in #{@@name}: #{e}")
+        @@reporter.report_error("Error detected in #{@@name}: #{e}")
       end
       
       throw e
